@@ -12,7 +12,7 @@ exit 1
 
 fi
 n=$1
-for i in {1..10}
+for i in {1..15}
 
 do
 echo " $n * $i = `expr $i \* $n`"
